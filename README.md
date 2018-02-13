@@ -137,4 +137,15 @@ I am using <b><a target="_blank" href="https://www.amazon.com/Starting-Out-Early
          corresponding Farenheit temperature. <br><br>
      <a href="https://github.com/MigPug/Code/blob/master/Celsius_To_Fahrenheit.cpp" target="_blank">Source Code</a>
   </li>
+  <li>
+    <b>Currency</b><br><br>
+     Write a program that will convert U.S. dollar amounts to Japanese yen and to euros,
+     storing the conversion factors in the constant variab les YEN_PER_DOLLAR and
+     EUROS_PER_DOLLAR. To get the most up-to-date exchange rates, search the Internet
+     using the term "currency exchange rate" or "currency converter." If you cannot find
+     the most recent exchange rates, use the following:<br><br>
+     1 Dollar= 120.005 Yen
+     1 Dollar= .881 Euros <br><br>
+     <a href="https://github.com/MigPug/Code/blob/master/Currency.cpp" target="_blank">Source Code</a>
+  </li>
 </ol>
