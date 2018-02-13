@@ -112,7 +112,7 @@ I am using <b><a target="_blank" href="https://www.amazon.com/Starting-Out-Early
      A bag of cookies holds 30 cookies. The calorie information on the bag claims that
      there are 10 "servings" in the bag and that a serving equals 240 calories. Write a
      program that asks the user to input how many cookies they actually ate and then
-     -=vc breports how many total calories were consumed . <br><br>
+     reports how many total calories were consumed . <br><br>
      <a href="https://github.com/MigPug/Code/blob/master/How_Many_Calories.cpp" target="_blank">Source Code</a>
   </li>
   <li>
@@ -125,5 +125,16 @@ I am using <b><a target="_blank" href="https://www.amazon.com/Starting-Out-Early
      that asks the user how many cookies he or she wants to make and then displays the
      number of cups of each ingredient needed for the specified number of cookies.  <br><br>
      <a href="https://github.com/MigPug/Code/blob/master/Ingredients_Adjuster.cpp" target="_blank">Source Code</a>
+  </li>
+  <li>
+    <b>Celsius to Fahrenheit</b><br><br>
+     Celsius to Fahrenheit
+         Write a program that converts Celsius temperatures to Fahrenheit temperatures . The
+         formula is<br><br>
+         F = 9/5C + 32 <br><br>
+         where F is the Fahrenheit temperature and C is the Celsius temperature. The program
+         should prompt the user to input a Celsius temperature and should display the
+         corresponding Farenheit temperature. <br><br>
+     <a href="https://github.com/MigPug/Code/blob/master/Celsius_To_Fahrenheit.cpp" target="_blank">Source Code</a>
   </li>
 </ol>
