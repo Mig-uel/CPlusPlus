@@ -107,4 +107,23 @@ I am using <b><a target="_blank" href="https://www.amazon.com/Starting-Out-Early
      the number of widgets stacked on the pallet. <br><br>
      <a href="https://github.com/MigPug/Code/blob/master/How_Many_Widgets.cpp" target="_blank">Source Code</a>
   </li>
+  <li>
+    <b>How Many Calories?</b><br><br>
+     A bag of cookies holds 30 cookies. The calorie information on the bag claims that
+     there are 10 "servings" in the bag and that a serving equals 240 calories. Write a
+     program that asks the user to input how many cookies they actually ate and then
+     -=vc breports how many total calories were consumed . <br><br>
+     <a href="https://github.com/MigPug/Code/blob/master/How_Many_Calories.cpp" target="_blank">Source Code</a>
+  </li>
+  <li>
+    <b>Ingredients Adjuster</b><br><br>
+     A cookie recipe calls for the following ingredients:<br><br>
+     • 1.5 cups of sugar<br>
+     • 1 cup of butter<br>
+     • 2. 75 cups of flour<br><br>
+     The recipe produces 48 cookies with these amounts of the ingredients. Write a program
+     that asks the user how many cookies he or she wants to make and then displays the
+     number of cups of each ingredient needed for the specified number of cookies.  <br><br>
+     <a href="https://github.com/MigPug/Code/blob/master/Ingredients_Adjuster.cpp" target="_blank">Source Code</a>
+  </li>
 </ol>
