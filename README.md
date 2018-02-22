@@ -1,5 +1,5 @@
 # C++
-This is where I post my C++ code! <br>
+This is where I post my C++ answers! <br>
 I am using <b><a target="_blank" href="https://www.amazon.com/Starting-Out-Early-Objects-9th/dp/0134400240/ref=mt_paperback?_encoding=UTF8&me=">Starting Out With C++ Early Object, 9th Edition, Gaddis, Tony</a>.</b>
 
 <img src="http://wallpapers-best.com/uploads/posts/2015-09/1_homer_simpson.jpg" alt="A Homer Simpson Image">
